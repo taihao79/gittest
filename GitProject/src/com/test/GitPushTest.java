@@ -10,8 +10,7 @@ public class GitPushTest {
 		System.out.println("test");
 			
 		
-		
-
+	
 	}
 	
 }
